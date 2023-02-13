@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hawariMuflihMunte/Kostumku/static/css/main.9ba5b74f.css",
+    "main.js": "/hawariMuflihMunte/Kostumku/static/js/main.49e065db.js",
+    "static/js/787.572ee104.chunk.js": "/hawariMuflihMunte/Kostumku/static/js/787.572ee104.chunk.js",
+    "index.html": "/hawariMuflihMunte/Kostumku/index.html",
+    "main.9ba5b74f.css.map": "/hawariMuflihMunte/Kostumku/static/css/main.9ba5b74f.css.map",
+    "main.49e065db.js.map": "/hawariMuflihMunte/Kostumku/static/js/main.49e065db.js.map",
+    "787.572ee104.chunk.js.map": "/hawariMuflihMunte/Kostumku/static/js/787.572ee104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba5b74f.css",
+    "static/js/main.49e065db.js"
+  ]
+}
